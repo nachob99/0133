@@ -24,6 +24,8 @@ public abstract class Barco
     
     public String toString(){
         String aDevolver = "";
+        aDevolver = "BARCO :" + matricula + "CLIENTE :" + propietario;
+        aDevolver += "\rESLORA :" + eslora + "AÑO FABRICACIÓN: " + anoFabricacion;
         return aDevolver;
     
     }

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Puerto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Puerto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Puerto()
+comment2.params=numAmarre
+comment2.target=double\ liquidarAlquilerAmarre(int)
+comment3.params=nDias\ barco
+comment3.target=double\ alquilarAmarre(int,\ Barco)
+numComments=4
